@@ -1,4 +1,4 @@
-// Copyright (c) 2023 Michael Kolesidis <michael.kolesidis@gmail.com>
+// Copyright (c) 2024 Uddit <udditalerts247@gmail.com>
 // Licensed under the GNU Affero General Public License v3.0.
 // https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -132,7 +132,7 @@ export default function Interface() {
               </div>
             </div>
             <div className="modal-about-area">
-              <div className="modal-about">© 2023 Michael Kolesidis.</div>
+              <div className="modal-about">© 2024 Uddit</div>
               <div className="modal-about">Licensed under the GNU AGPL 3.0</div>
             </div>
           </div>
